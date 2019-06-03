@@ -36,8 +36,8 @@ const context = {
     },
     {
       image: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/9044/9044571_sa.jpg;maxHeight=640;maxWidth=550',
-      name: 'Bongos are litty',
-      description: 'Bongos from Best Buy, yay!',
+      name: 'Bongos',
+      description: 'Bongos from Best Buy. Bongos are fun to play because it is like playing drums, but simpler.',
       price: '$90.00',
       sale: '$89.99'
     }

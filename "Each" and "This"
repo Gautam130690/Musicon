@@ -1,0 +1,7 @@
+{{#each someArray}}
+  <p>{{this}} is the current element!</p>
+{{/each}}
+
+cont context = {
+  someArray:['First', 'Second, 'Third']
+}
